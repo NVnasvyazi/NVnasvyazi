@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @NVnasvyazi! You may call me simply Nadia)
-- 👀 I’m interested in IT-recruitment, QA and SQL.
-- 🌱 I’m currently learning SQL and manual testing.
-- 💞️ I’m looking to collaborate on new vacancies (Front-end, Back-end, Full-Stack,Mobile developers), testing and SQL practice.
-- 📫 How to reach me Telegram @NVnasvyazi.
+```md
+┌──(nadia㉿github)-[~/profile]
+└─$ cat about.txt
 
-<!---
-NVnasvyazi/NVnasvyazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Tech Support Engineer
+> Project Management
+> Learning AI & Design
+> Interested in smart systems and clean UX
+> Turning complex things into simple solutions
+
+STATUS: ONLINE
+FOCUS: BUILD • LEARN • IMPROVE
